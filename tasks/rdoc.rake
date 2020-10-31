@@ -1,4 +1,4 @@
-require 'rake/rdoctask'
+require 'rdoc/task'
 
 CLEAN.include %w(doc/rdoc)
 

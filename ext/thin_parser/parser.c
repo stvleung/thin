@@ -1,4 +1,3 @@
-
 #line 1 "parser.rl"
 /**
  * Copyright (c) 2005 Zed A. Shaw
